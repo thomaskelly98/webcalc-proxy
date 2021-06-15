@@ -1,0 +1,7 @@
+operation,text
++,add
+-,subtract
+*,multiply
+/,divide
+^2,square
+%,modulo

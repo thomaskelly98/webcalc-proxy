@@ -1,0 +1,7 @@
+Operation,Name,Endpoint
++,add,http://webcalc-add.40183237.qpc.hal.davecutting.uk/
+-,subtract,http://webcalc-subtract.40183237.qpc.hal.davecutting.uk/
+*,multiply,http://webcalc-multiply.40183237.qpc.hal.davecutting.uk/
+/,divide,http://webcalc-divide.40183237.qpc.hal.davecutting.uk/
+^2,square,http://webcalc-square.40183237.qpc.hal.davecutting.uk/
+%,modulo,http://webcalc-modulo.40183237.qpc.hal.davecutting.uk/
